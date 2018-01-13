@@ -1,2 +1,3 @@
 # TDDD97
-LU 2016 spring TDDD97 Introduction to web programming
+LiU 2016 spring TDDDD97 web programming 
+Kai-Sheng Yang's project
